@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Muskaan Jhooti Hai 🐼 ",
           artist: "T-Series",
-          cover: "surprise.png",
+          cover: "SURPRISE.png",
           source: "muskan jhooti hai.mp3",
           url: "https://youtu.be/C805Nt0JPIY?si=lYDCGd1eepdnj-0Q",
           favorited: true
